@@ -1,0 +1,2 @@
+python build_time_dependent_synthetic_diagnostics_density_and_temperatures.py -e out/ -s input_data/plasma_data-chi\=3.0.csv -d CV -t T_gain --density_json_name testcase_density.json --temperature_json_name testcase_temperature.json --temperature_profile_type LM26CompressionTemperatureProfile --density_profile_type LM26CompressionDensityProfile --density_profile_n0 2e19
+
