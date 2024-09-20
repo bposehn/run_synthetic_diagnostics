@@ -1,0 +1,1 @@
+python build_testcase_data_dir.py -o tc_out -e lm26 --hdf_dir out/ --hdf_list_file equil_names_in_order.txt --temperature_profiles_json testcase_temperature_chi_3.json --density_profiles_json testcase_density_chi_3.json -f
